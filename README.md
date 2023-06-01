@@ -17,7 +17,7 @@
 - 📫 How to reach me **saieswarkumar@gmail.com**
 
 - checkout my recent practice project of Ecommmerce Clone
-  Link : https://monumental-muffin-6661e5.netlify.app
+  Link : https://lovely-narwhal-d80516.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
