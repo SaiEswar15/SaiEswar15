@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/in/sai-eswar-kumar-pendurthi-8a141b180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sai-eswar-kumar-pendurthi-8a141b180" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/in/saieswar150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sai-eswar-kumar-pendurthi-8a141b180" height="30" width="40" /></a>
   <a href="https://twitter.com/eswar__150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eswar__150" height="30" width="40" /></a>
   <a href="https://fb.com/saies.war.150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saies.war.150" height="30" width="40" /></a>
   <a href="https://instagram.com/sai.es_war" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai.es_war" height="30" width="40" /></a>
