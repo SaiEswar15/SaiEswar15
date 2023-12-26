@@ -12,12 +12,15 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Javascript, React, Redux, Node, Expess, HTML, CSS**
+- 💬 Ask me about **Javascript, React, Redux, Node, Express, HTML, CSS, MongoDB**
 
 - 📫 How to reach me **saieswarkumar@gmail.com**
 
-- checkout my recent practice project of Ecommmerce Clone
-  Link : https://lovely-narwhal-d80516.netlify.app
+- checkout my recent practice project of E-commerce Clone
+  Link: https://lovely-narwhal-d80516.netlify.app
+
+- Freelancing a project called Outfit Gallery
+  Link: https://outfitgallery.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
