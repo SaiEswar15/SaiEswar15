@@ -16,10 +16,13 @@
 
 - 📫 How to reach me **saieswarkumar@gmail.com**
 
-- checkout my recent practice project of E-commerce Clone
+- Open to work and you can take a look at my **Resume** at
+  Link: https://drive.google.com/file/d/1IbvPY7xy-pAqNOYw5nAaFHoTpe1ASAmO/view?usp=sharing
+
+- checkout my recent practice project of **E-commerce Clone**
   Link: https://lovely-narwhal-d80516.netlify.app
 
-- Freelancing a project called Outfit Gallery
+- Freelancing a project called **Outfit Gallery**
   Link: https://outfitgallery.netlify.app
 
 <h3 align="left">Connect with me:</h3>
