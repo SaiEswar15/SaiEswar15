@@ -56,7 +56,7 @@
 
 <br>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saieswar15&show_icons=true&locale=en&layout=compact" alt="saieswar15" /></p>
+<p align="center"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saieswar15&show_icons=true&locale=en&layout=compact" alt="saieswar15" /></p>
 
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saieswar15&show_icons=true&locale=en" alt="saieswar15" /></p> -->
 
